@@ -1,0 +1,12 @@
+name: AcidRain
+version: ${project.version}
+main: com.ashawsolutions.acidrain.AcidRain
+api-version: 1.16
+prefix: AcidRain
+authors: [ Anomoly ]
+description: Simulates acid rain for the hunger games.
+website: https://ashawsolutions.com
+commands:
+  acidrain:
+    description: Sets all players to the acid rain world with stormy weather
+    permission: panemforever.gamemaker
